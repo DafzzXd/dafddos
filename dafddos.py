@@ -1,3 +1,4 @@
+@@ -1,48 +0,0 @@
  soket impor
 impor  acak
 impor  benang
@@ -43,3 +44,6 @@ def  mulai ():
 untuk  x  dalam  rentang ( utas ):
     thred  =  threading . Utas ( target = mulai )
     mengirik . mulai ()
+
+
+# SELESAI!
